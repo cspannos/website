@@ -1,5 +1,27 @@
 # Course Overview
 
+## Introduction to cryptoeconomics
+* Why it's important
+   * Building systems that have certain desired properties      
+   * Using cryptography to prove certain properties about messages that have happened in the past
+   * Using economics incentives designed inside the system to encourage desired properties to hold into the future
+   * Using cryptoeconomics to achieve the security objectives of a system
+
+* Where does it come from?
+   * Game Theory: Coordination Problems, Equilibrium, Nash Equilibrium, (Strong Nash)  Coalitional Dominant
+   * Economics
+     * Rewards: Reinforce good behavior with increased tokens or privileges
+     * Penalties: Punish bad behavior by reducing tokens and privileges     
+     * Incentives, Incentive Manipulation, Perverse Incentives (Hanoi's 'Rat effect', India's 'Cobra effect')
+
+* Methodologies
+   * SPORE Analysis (Vlad Zamfir)
+      * Stability: Are players following the protocol and in equilibrium?
+      * Persistence: If the game falls out of equilibrium, does it recover?
+      * Optimality: Does following the protocol maximize the quality of outcomes?
+      * Robustness: Can the protocol withstand perturbations in the player's incentives?
+      * Efficiency: Is the incentive mechanism economically efficient? Is it efficiently computable?
+      
 ## Chapter 1: Centralized Payment Processor
 * Overview of basic crypto concepts
    * Hashes -- not how they work but instead what they do (collision resistance, second preimage resistance [given x and H(x), cannot find y such that H(y) = H(x)], preimage resistance, random oracle)
