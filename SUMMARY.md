@@ -2,7 +2,7 @@
 
 * [Homepage](./README.md)
 * [Course Overview](./overview.md)
-  * [Introduction to cryptoeconomics](./overview.md#introduction-to-cryptoeconomics)
+  * [Introduction to Cryptoeconomics](./overview.md#introduction-to-cryptoeconomics)
   * [Chapter 1: Centralized Payment Processor](./overview.md#chapter-1-centralized-payment-processor)
   * [Chapter 2: Client Validation, Networks, and Double Spends](./overview.md#chapter-2-client-validation-networks-and-double-spends)
   * [Chapter 3: Proof of Work](./overview.md#chapter-3-proof-of-work)
