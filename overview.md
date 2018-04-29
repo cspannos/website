@@ -8,7 +8,7 @@
    * Using cryptoeconomics to achieve the security objectives of a system
 
 * Where does it come from?
-   * Game Theory: Coordination Problems, Equilibrium, Nash Equilibrium, (Strong Nash)  Coalitional Dominant
+   * Game Theory: Coordination Problems, Equilibrium, Nash Equilibrium (Strong Nash), Coalitional Dominant
    * Economics
      * Rewards: Reinforce good behavior with increased tokens or privileges
      * Penalties: Punish bad behavior by reducing tokens and privileges     
