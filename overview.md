@@ -1,8 +1,8 @@
 # Course Overview
 
 ## Introduction to cryptoeconomics
-* Why it's important
-   * Building systems that have certain desired properties      
+* Why it's important (Vitalik Buterin)
+   * For building systems that have certain desired properties      
    * Using cryptography to prove certain properties about messages that have happened in the past
    * Using economics incentives designed inside the system to encourage desired properties to hold into the future
    * Using cryptoeconomics to achieve the security objectives of a system
@@ -12,7 +12,7 @@
    * Economics
      * Rewards: Reinforce good behavior with increased tokens or privileges
      * Penalties: Punish bad behavior by reducing tokens and privileges     
-     * Incentives, Incentive Manipulation, Perverse Incentives (Hanoi's 'Rat effect', India's 'Cobra effect')
+     * Incentives: Incentive Compatability, Incentive Manipulation and Perverse Incentives
 
 * Methodologies
    * SPORE Analysis (Vlad Zamfir)
